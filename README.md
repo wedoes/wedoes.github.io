@@ -17,7 +17,7 @@ WEDOES hadir sebagai _komunitas terbuka_ yang fokus pada:
 ---
 
 ## ⚒️ Tools OSINT Gratis yang Kami Gunakan:
-|-------------------|------------------------------------------------------|
+
 |       Tool        |                Fungsi Singkat                        |
 |-------------------|------------------------------------------------------|
 | **theHarvester**  | Mencari email & subdomain                            |
@@ -25,7 +25,7 @@ WEDOES hadir sebagai _komunitas terbuka_ yang fokus pada:
 | **Exiftool**      | Mengekstrak metadata dari gambar                     |
 | **Spiderfoot**    | OSINT otomatis (analisis luas)                       |
 | **Google Dorking**| Teknik pencarian data khusus via Google              |
-|-------------------|------------------------------------------------------|
+
 > 📁 Kami akan merilis koleksi tool & cheat sheet secara bertahap.
 
 ---
